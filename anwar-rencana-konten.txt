@@ -1,5 +1,7 @@
 RENCANA KONTEN ANWAR
 - Javascript
+  * FrameWork
+  * Aplikasi sederhana
 - PHP
 - Framework
 - Vlog
