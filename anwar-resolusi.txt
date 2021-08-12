@@ -4,3 +4,4 @@ ANWAR RESOLUSI
 - Belajar Javascript
 - Menguasai MySQL
 - Memperbanyak Relasi
+- Menjadi Web Development
