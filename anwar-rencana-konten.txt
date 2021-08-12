@@ -1,7 +1,7 @@
 RENCANA KONTEN ANWAR
 - Javascript
   * FrameWork
-    - View
+    - Vue
     - React
   * Aplikasi sederhana
 - PHP
