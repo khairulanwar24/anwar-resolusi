@@ -1,8 +1,8 @@
 RENCANA KONTEN ANWAR
 - Javascript
   * FrameWork
+    - Angular
   * Aplikasi sederhana
-- PHP
-- Struktur Dasar Data
-- Framework
+- PHP Framework
+  - Laravel
 - Vlog
