@@ -2,6 +2,7 @@ RENCANA KONTEN ANWAR
 - Javascript
   * FrameWork
     - View
+    - React
   * Aplikasi sederhana
 - PHP
   -Laravel
